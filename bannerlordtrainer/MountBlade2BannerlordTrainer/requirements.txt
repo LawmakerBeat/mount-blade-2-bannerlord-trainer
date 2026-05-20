@@ -1,0 +1,6 @@
+# This file lists the dependencies for the Mount & Blade II: Bannerlord Trainer.
+# Since this is a C# project, dependencies are managed via NuGet.
+# This file is provided for documentation purposes.
+
+# No external NuGet packages required; uses only System libraries.
+# Run 'dotnet restore' to restore dependencies.
